@@ -46,6 +46,7 @@ Microsoft Excel
 
 ## Arquivo
 
-📊 [Baixar planilha (Controle_de_Chamados_Portfolio_TI.xlsx)](Controle_de_Chamados_Portfolio_TI.xlsx)
+- 📊 [Visualizar planilha completa](https://1drv.ms/x/c/51516c58c9185420/IQDA1aoeBcqFRpLLF4HTxRTlAfFpYPRWy7Ofv6l_xSlGkeI?e=1Q2fjI
+)
 
 **Autor:** [Leandro]
