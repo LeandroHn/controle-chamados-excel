@@ -46,7 +46,7 @@ Microsoft Excel
 
 ## Arquivo
 
-- 📊 [Visualizar planilha completa](https://1drv.ms/x/c/51516c58c9185420/IQDA1aoeBcqFRpLLF4HTxRTlAX-_dXcJjSvo5ttxNZJNy9M?e=c1cvrf
+- 📊 [Visualizar planilha completa](https://1drv.ms/x/c/51516c58c9185420/IQDA1aoeBcqFRpLLF4HTxRTlAX-_dXcJjSvo5ttxNZJNy9M
 )
 
 **Autor:** [Leandro]
