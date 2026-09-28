@@ -4,10 +4,8 @@
 
 ## Sobre o projeto
 
-Simulação de um sistema real de controle de chamados/incidentes de TI,
-construída em Excel, demonstrando capacidade de estruturar dados,
-automatizar cálculos e gerar indicadores de gestão sem depender de
-ferramenta externa.
+Simulação de um sistema real de controle de chamados/incidentes,
+construída em Excel.
 
 ## O que o projeto resolve
 
