@@ -1,6 +1,6 @@
 # Controle de Chamados — Sistema de Suporte Técnico (Excel)
 
-**Projeto | Área: Help Desk
+**Projeto | Área: Help Desk**
 
 ## Sobre o projeto
 
